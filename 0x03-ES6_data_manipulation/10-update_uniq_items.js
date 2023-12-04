@@ -8,5 +8,6 @@ export default function updateUniqueItems(mapList) {
        mapList.set(key, 100);
     }
   }
+
   return mapList;
 }
